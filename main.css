@@ -1,0 +1,13 @@
+body {
+    background-color: lightskyblue;
+}
+
+p {
+    height: 40px;
+    color: white;
+}
+
+#margin-experiment-1,
+#margin-experiment-2 {
+    margin: 0;
+}
